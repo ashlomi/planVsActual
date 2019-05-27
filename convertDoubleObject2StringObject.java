@@ -16,5 +16,5 @@ public class JavaDoubleToStringExample {
  
 /*
 Output of the program would be
-Double converted to String as 10.25
+Double converted to String as 10.251
 */
