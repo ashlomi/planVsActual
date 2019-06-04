@@ -1,6 +1,6 @@
 /*
   Convert Double object to String object
-  This example shows how a Double object can be converted into a String object.
+  This example shows how a Double object can be converted into a String object!.
 */
  
 public class JavaDoubleToStringExample {
